@@ -1,0 +1,49 @@
+.herox {
+    
+}
+
+.header {
+    display:flex;
+    justify-content: space-between;
+}
+
+.hero-text{
+    display:flex;
+    justify-content: space-around;
+    background-color:#1F2937;
+    border:1px solid white;
+    padding: 25px;
+}
+
+.left-side {
+    display:flex;
+    width:400px;
+    flex-wrap: wrap;
+}
+
+.right-side{
+    display:flex;
+    align-items: center;
+}
+
+h1 {
+    display:flex;
+    font-size:48px;
+    color: #F9FAF8;
+    font-weight: 900;
+    margin-bottom:0;
+    align-items: flex-end;
+}
+p {
+    color: #E5E7EB;
+     margin-top:0;
+}
+
+.sign-up {
+    background-color:#3882F6;
+    color:white;
+    border-radius:12px;
+    border:none;
+    width:100px;
+    cursor:pointer;
+}
